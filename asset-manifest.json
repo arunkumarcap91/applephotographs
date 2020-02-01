@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.5c30961a.chunk.js",
-    "main.js.map": "/static/js/main.5c30961a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2e7fe822.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2e7fe822.js.map",
-    "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
-    "static/js/2.55a3ac76.chunk.js": "/static/js/2.55a3ac76.chunk.js",
-    "static/js/2.55a3ac76.chunk.js.map": "/static/js/2.55a3ac76.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f8e2ce721a96c6d4e222c870f012cac1.js": "/precache-manifest.f8e2ce721a96c6d4e222c870f012cac1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
-    "static/js/2.55a3ac76.chunk.js.LICENSE": "/static/js/2.55a3ac76.chunk.js.LICENSE",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+    "main.js": "/applephotographs/static/js/main.5c30961a.chunk.js",
+    "main.js.map": "/applephotographs/static/js/main.5c30961a.chunk.js.map",
+    "runtime-main.js": "/applephotographs/static/js/runtime-main.8bb58e1f.js",
+    "runtime-main.js.map": "/applephotographs/static/js/runtime-main.8bb58e1f.js.map",
+    "static/css/2.29b4b00f.chunk.css": "/applephotographs/static/css/2.29b4b00f.chunk.css",
+    "static/js/2.82887cc0.chunk.js": "/applephotographs/static/js/2.82887cc0.chunk.js",
+    "static/js/2.82887cc0.chunk.js.map": "/applephotographs/static/js/2.82887cc0.chunk.js.map",
+    "index.html": "/applephotographs/index.html",
+    "precache-manifest.7c9a78252aa3ad9a42013a82bffb36d3.js": "/applephotographs/precache-manifest.7c9a78252aa3ad9a42013a82bffb36d3.js",
+    "service-worker.js": "/applephotographs/service-worker.js",
+    "static/css/2.29b4b00f.chunk.css.map": "/applephotographs/static/css/2.29b4b00f.chunk.css.map",
+    "static/js/2.82887cc0.chunk.js.LICENSE": "/applephotographs/static/js/2.82887cc0.chunk.js.LICENSE",
+    "static/media/slick-theme.css": "/applephotographs/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e7fe822.js",
-    "static/css/2.18585a14.chunk.css",
-    "static/js/2.55a3ac76.chunk.js",
+    "static/js/runtime-main.8bb58e1f.js",
+    "static/css/2.29b4b00f.chunk.css",
+    "static/js/2.82887cc0.chunk.js",
     "static/js/main.5c30961a.chunk.js"
   ]
 }
